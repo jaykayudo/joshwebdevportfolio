@@ -217,6 +217,12 @@ body{
     padding: 2px 10px;
     font-size: 20px;
 }
+.social-icons span a{
+	color: white;
+}
+.social-icons span a:hover{
+	color: rgb(69, 69, 238);
+}
 @media screen and (max-width: 600px){
     .short-note{
         
